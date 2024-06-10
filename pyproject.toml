@@ -31,7 +31,7 @@ python = ">=3.10"
 pydantic = "<3"
 lxml = "^4.9.2"
 pydantic-xml = {extras = ["lxml"], version = "^2.9.0"}
-fastapi = "^0.104.1"
+fastapi = "^0.111.0"
 
 
 
